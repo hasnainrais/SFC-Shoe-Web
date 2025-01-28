@@ -236,4 +236,11 @@ body{
 }
 
 
+.cs-ft-socialicon>a:hover{
+    opacity: 0.5;
+}
+
+.cs-ft-socialicon>a:active{
+    opacity: 1;
+}
 
