@@ -1,0 +1,36 @@
+
+@font-face {
+    font-family: poppins;
+    src: url(assets/font/Poppins-Regular.ttf);
+}
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: poppins;
+    background-color: #f5f5f5 !important;
+}
+.cs-card-row{
+    margin-top: 20px;
+}
+
+.cs-btn-order{
+    margin-top: 5px;
+   background-color: black !important;
+   text-align: center;
+}
+
+.cs-btn-order:hover{
+
+    opacity: 0.5;
+}
+
+.cs-btn-order>a{
+    text-decoration: none;
+    color: #FFFFFF !important;
+}
+
+

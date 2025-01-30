@@ -125,6 +125,19 @@ body{
     box-shadow: 1px 1px 2px #e0e0e0;
 }
 
+.card-link{
+    text-decoration: none;
+    color: #000000;
+}
+
+/* .card-link:hover{
+    cursor:alias;
+} */
+
+/* .card-link:active{
+    opacity: 1;
+} */
+
 .cs-45off{
     margin-top: 50px;
     margin-bottom: 50px;
